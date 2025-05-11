@@ -1,0 +1,32 @@
+[project]
+name = "ai-hand-tracking"
+version = "0.1.0"
+description = "Easy Hand Tracking with OpenCV and Mediapipe"
+authors = [{name = "Lev Borodin", email = "faunris@gmail.com"}]
+
+readme = "README.md"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+
+requires-python = ">=3.12,<3.13"
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Environment :: MacOS X",
+
+  "Intended Audience :: Developers",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+  "Programming Language :: Python :: 3.12",
+]
+
+dependencies = [
+    "mediapipe>=0.10.21",
+    "opencv-python>=4.11.0.86",
+    "numpy>=1.26.4",
+    "tensorflow-macos>=2.16.2",
+    "tensorflow-metal>=1.2.0",
+]
+
+[dependency-groups]
+lint = [
+  "pre-commit>=4.2.0",
+]

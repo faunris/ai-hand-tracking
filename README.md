@@ -2,6 +2,8 @@
 
 Easy Hand Tracking with OpenCV and Mediapipe via macOS Metal GPU
 
+<img width="1072" alt="image" src="https://github.com/user-attachments/assets/72ca021e-d899-46fb-bfcc-659f322a5ccc" />
+
 [//]: # ([![codecov]&#40;https://codecov.io/gh/faunris/ai-hand-tracking/graph/badge.svg?token=YIAPH2CQB5&#41;]&#40;https://codecov.io/gh/faunris/ai-hand-tracking&#41;)
 
 [//]: # ([![CI]&#40;https://github.com/faunris/ai-hand-tracking/actions/workflows/main.yml/badge.svg&#41;]&#40;https://github.com/faunris/ai-hand-tracking/actions/workflows/main.yml&#41;)
